@@ -9,7 +9,9 @@ This is a backend application providing API endpoints for the front end to use t
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
 ![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](https://www.youtube.com/watch?v=rKHILQQEJC8&ab_channel=Chumeeks)
-api/tags
+[![myvideo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=rKHILQQEJC8&ab_channel=Chumeeks)
+
+
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/63639477/199888655-b4402413-4e4c-4286-9aba-5d80ef4de811.png">
 <img width="959" alt="image" src="https://user-images.githubusercontent.com/63639477/199888747-336dbfa3-8a3e-4f5e-8cc4-c7e88db736c7.png">
 api/products
