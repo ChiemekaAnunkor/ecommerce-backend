@@ -8,7 +8,6 @@ This is a backend application providing API endpoints for the front end to use t
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-![In Insomnia, the user tests “GET tags,” “GET Categories,” and “GET All Products.”.](https://www.youtube.com/watch?v=rKHILQQEJC8&ab_channel=Chumeeks)
 [![myvideo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=rKHILQQEJC8&ab_channel=Chumeeks)
 
 
