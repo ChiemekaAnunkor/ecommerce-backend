@@ -139,19 +139,13 @@ use Insomnia (use videos and sample snapshots using Insomnia for Product model f
 
     - References the `Tag` model's `id`.
 
-### Features
-
 ### links
 
 google drive : https://drive.google.com/file/d/1WEvDfIrg2GjyJdwqvb5C1eW1rz3MFlq8/view
 git hub :https://github.com/ChiemekaAnunkor/ecommerce-backend
  
-
-API 
 ### contact
-
-After creating the models and routes, run `npm run seed` to seed data to your database so that you can test your routes.
-
+Please feel free to reachout to via github username:ChiemekaAnunkor
 ### liscences
 
 Create the code needed in `server.js` to sync the Sequelize models to the MySQL database on server start.
