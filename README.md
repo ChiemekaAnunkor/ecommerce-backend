@@ -8,7 +8,7 @@ This is a backend application providing API endpoints for the front end to use t
 
 The following animation shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia:
 
-[![myvideo](https://i.ytimg.com/vi/rKHILQQEJC8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gIygzMA8=\u0026rs=AOn4CLDEgI_uXf2FqlZd6RarbwMdJPsUo)](https://www.youtube.com/watch?v=rKHILQQEJC8&ab_channel=Chumeeks)
+[![myvideo](https://i.ytimg.com/vi/rKHILQQEJC8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gIygzMA8=\u0026rs=AOn4CLDEgI_uXf2FqlZd6RarbwMdJPsUo)](https://youtu.be/rKHILQQEJC8)
 
 
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/63639477/199888655-b4402413-4e4c-4286-9aba-5d80ef4de811.png">
